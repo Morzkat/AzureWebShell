@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0lsOy8xIJKKt2JZrAxo8E0oMqW/jauynHAIyNxdAbHFq/505YZc9fdbwMwdEA0RcyzNYvhu9kzba+HSzIw6jtw==",
+  "success": true,
+  "projectFilePath": "C:\\Felix\\Github\\AzureWebShell\\AzureWebShell.Api\\AzureWebShell.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Felix David Garcia\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
